@@ -1,7 +1,7 @@
-- 👋 Hi, I’m C++
-- 👀 I’m interested in C++ 
+- 👋 Hi, I’m 4096Buffer
+- 👀 I’m interested in C#,Python
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me c++
+- 💞️ I’m looking to collaborate on idk
+- 📫 How to reach me- bro wut
 
 
