@@ -13,11 +13,11 @@
 
 ## 📈 My stats:
 
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=4096Buffer&show_icons=true&theme=radical)
+![Statystyki GitHub](![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=4096Buffer&show_icons=true&count_private=true&include_all_commits=true&theme=radical))
 
 ## 📫 Contact
 
-- Discord: 4096Buffer
+- On discord: 4096Buffer
 
 ## 📝 Currently working on
   - Threadlity: https://github.com/4096Buffer/Threadility
