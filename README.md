@@ -1,6 +1,6 @@
-# Buffer4096
+# Hi, I'm Buffer4096! 
 
-Hi, I'm Buffer4096! I'm web dev and cybersecurity enthusiast
+- I'm web dev and cybersecurity enthusiast
 
 ## 🔧 What I use:
 
@@ -13,7 +13,7 @@ Hi, I'm Buffer4096! I'm web dev and cybersecurity enthusiast
 
 ## 📈 My stats:
 
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUżytkownika&show_icons=true&theme=radical)
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=4096Buffer&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
