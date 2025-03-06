@@ -1,6 +1,6 @@
 # Hi, I'm Buffer4096! 
 
-- I'm web dev and cybersecurity enthusiast
+- I make AI stuff, build websites and I like cybersecurity
 
 ## 🔧 What I use:
 
